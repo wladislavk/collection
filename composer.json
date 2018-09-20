@@ -1,5 +1,5 @@
 {
-    "name": "vkr/Collection",
+    "name": "vkr/collection",
     "description": "Store and retrieve objects based on keys",
     "keywords": ["collection", "PHP"],
     "license": "MIT",
