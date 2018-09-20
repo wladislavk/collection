@@ -1,0 +1,19 @@
+{
+    "name": "VKR/Collection",
+    "description": "Store and retrieve objects based on keys",
+    "keywords": ["collection", "PHP"],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "VKR\\Collection\\": "src/",
+            "VKR\\Collection\\Tests\\": "tests/"
+        }
+    }
+}
